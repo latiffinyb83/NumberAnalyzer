@@ -9,7 +9,7 @@ print()
 
 # Given an integer entered by a user, perform the following conditional actions:
 if xyz % 2 != 0 and xyz < 60:
-    print("You entered a number that is Odd and less than 60")
+    print("You entered a number that is odd and less than 60")
 
 elif xyz % 2 == 0 and 2 <= xyz <= 24:
     print("You entered a number that is even and less than 25")
