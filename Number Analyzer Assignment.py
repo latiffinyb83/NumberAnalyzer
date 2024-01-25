@@ -24,7 +24,7 @@ elif xyz % 2 != 0 and xyz > 60:
     print("You entered a number that is odd and greater than 60")
 
 elif xyz < 1 or xyz > 100:
-    print("You entered an incorrect value. Please try again and enter a number between 1 and 100")
+    print("You entered an incorrect value! Please try again and enter a number between 1 and 100")
 
 while True:
     print("Would you like to enter another number between 1 and 100? y/n ")
